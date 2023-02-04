@@ -18,8 +18,8 @@ in the application folder there are folders with scss code and others.
 
 
 '''
+    
     npm i
-
     gulp
 '''
 
